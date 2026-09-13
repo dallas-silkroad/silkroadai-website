@@ -27,3 +27,5 @@ Allow: /
 
 User-agent: Applebot-Extended
 Allow: /
+
+Sitemap: https://silkroadaisolutions.com/sitemap.xml
